@@ -13,8 +13,6 @@ Download and test it out.
  - Flutter 
  - Android Studio
 
-*
-
 ## What i learned
 
  - Classes and objects in Dart
