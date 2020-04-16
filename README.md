@@ -26,14 +26,12 @@ Download and test it out.
  - Slider widget
  - Routes and Navigation(Creating Multi screen apps)
  - Dart maps
- - 
 
 ## Important Flutter concepts
 
  1. [Flutter Themes](https://flutter.dev/docs/cookbook/design/themes)
  2. [Dart Enums](https://dart.dev/guides/language/language-tour#enumerated-types)
  3. [Routes and Navigation](https://flutter.dev/docs/development/ui/navigation)
-
 
 > Whenever you feel stuck always refer [Flutter cookbook](https://flutter.dev/docs/cookbook).
 
@@ -42,8 +40,7 @@ Download and test it out.
  - # [The Complete 2020 Flutter Development Bootcamp with Dart- Angela Yu](The%20Complete%202020%20Flutter%20Development%20Bootcamp%20with%20Dart)
  - [Freecodecamp's youtube course](https://youtu.be/pTJJsmejUOQ)
  - And of course Flutter's own youtube channel 
-
-## Download APK
+## [Download APK](https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=12V0XWYsYY1w9JiDPc8XYKNIgdlHZZUo)
 
 
 
