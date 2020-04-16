@@ -1,6 +1,6 @@
-# GetApp
+# GetFit
 
-GetApp is a BMI calculator cross platform mobile application developed with flutter. The app has a beautiful UI and is flexible to use.
+GetFit is a BMI calculator cross platform mobile application developed with flutter. The app has a beautiful UI and is flexible to use.
 Download and test it out.
 
 ## UI 
@@ -40,7 +40,7 @@ Download and test it out.
  - # [The Complete 2020 Flutter Development Bootcamp with Dart- Angela Yu](The%20Complete%202020%20Flutter%20Development%20Bootcamp%20with%20Dart)
  - [Freecodecamp's youtube course](https://youtu.be/pTJJsmejUOQ)
  - And of course Flutter's own youtube channel 
-## [Download APK](https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=12V0XWYsYY1w9JiDPc8XYKNIgdlHZZUo)
+## [Download APK](https://drive.google.com/uc?export=download&id=12V0XWYsYY1w9JiDPc8XYKNIgdlHZZUo5)
 
 
 
